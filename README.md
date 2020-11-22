@@ -1,7 +1,8 @@
 # percentage_time
 A small windows widget with various functions and a clock that shows the time of day in a percentage of waking hours
 
-![Screenshot](...)
+![Screenshot](percentage_time.JPG)
+
 Features:
 - Shows the time of day in percent of your usual waking hours.
 - Timer turns red when you are up past your usual waking hours.
