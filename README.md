@@ -10,3 +10,5 @@ Features:
 - keeps a record of all words you've wanted synonyms for (.csv file)
 - right click on the clock opens a menu where you can block/ unblock webpages using your pc's hosts file. (the websites must be changed in the script)
 - displays the standard time on mouse hover
+
+Put a shortcut to the script into your auto-start folder to always find the application in your taskbar without having to start the script manually.
